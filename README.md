@@ -1,6 +1,6 @@
-# go-api-deliveryhero-ens
-In memory key-value store olarak çalışan bir REST-API
+# In memory key-value store olarak çalışan bir REST-API
 servisi
+
 
 Standart Kütüphaneler kullanılmıştır
 
