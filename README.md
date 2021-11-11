@@ -1,5 +1,4 @@
-# In memory key-value store olarak çalışan bir REST-API
-servisi
+# In memory key-value store olarak çalışan bir REST-API servisi
 
 
 Standart Kütüphaneler kullanılmıştır
