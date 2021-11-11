@@ -29,7 +29,7 @@ Standart Kütüphaneler kullanılmıştır
 # Çalıştırma
 
 + Standart
-   + go run main.js
+   + go run main.go
 
 + Docker Container
     + docker build -t go-api
